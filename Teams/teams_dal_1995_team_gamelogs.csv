@@ -1,0 +1,24 @@
+
+,,,,,,,,,Score,Score,Offense,Offense,Offense,Offense,Offense,Defense,Defense,Defense,Defense,Defense,Expected Points,Expected Points,Expected Points
+Week,Day,Date,,,OT,Rec,,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+1,Mon,September 4,boxscore,W,,1-0,@,New York Giants,35,0,26,461,229,232,1,16,211,146,65,1,,,
+2,Sun,September 10,boxscore,W,,2-0,,Denver Broncos,31,21,27,358,196,162,1,17,287,198,89,2,,,
+3,Sun,September 17,boxscore,W,OT,3-0,@,Minnesota Vikings,23,17,20,387,233,154,2,17,252,160,92,1,,,
+4,Sun,September 24,boxscore,W,,4-0,,Arizona Cardinals,34,20,26,440,251,189,1,22,381,329,52,3,,,
+5,Sun,October 1,boxscore,L,,4-1,@,Washington Redskins,23,27,19,356,238,118,2,19,319,183,136,1,,,
+6,Sun,October 8,boxscore,W,,5-1,,Green Bay Packers,34,24,25,448,312,136,,20,369,295,74,1,,,
+7,Sun,October 15,boxscore,W,,6-1,@,San Diego Chargers,23,9,22,320,215,105,1,20,333,174,159,4,,,
+8,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+9,Sun,October 29,boxscore,W,,7-1,@,Atlanta Falcons,28,13,23,380,194,186,1,16,258,158,100,,,,
+10,Mon,November 6,boxscore,W,,8-1,,Philadelphia Eagles,34,12,22,366,202,164,2,14,230,120,110,2,,,
+11,Sun,November 12,boxscore,L,,8-2,,San Francisco 49ers,20,38,19,296,188,108,4,21,386,300,86,,,,
+12,Sun,November 19,boxscore,W,,9-2,@,Oakland Raiders,34,21,25,336,223,113,1,32,449,309,140,3,,,
+13,Thu,November 23,boxscore,W,,10-2,,Kansas City Chiefs,24,12,23,293,175,118,,19,334,261,73,1,,,
+14,Sun,December 3,boxscore,L,,10-3,,Washington Redskins,17,24,24,381,285,96,2,18,292,152,140,,,,
+15,Sun,December 10,boxscore,L,,10-4,@,Philadelphia Eagles,17,20,15,196,87,109,1,19,311,162,149,2,,,
+16,Sun,December 17,boxscore,W,,11-4,,New York Giants,21,20,21,332,222,110,1,21,347,103,244,1,,,
+17,Mon,December 25,boxscore,W,,12-4,@,Arizona Cardinals,37,13,27,474,373,101,3,12,285,222,63,3,,,
+,,Playoffs,,,,,,,,,,,,,,,,,,,,,
+Division,Sun,January 7,boxscore,W,,13-4,,Philadelphia Eagles,30,11,21,397,244,153,1,13,227,153,74,1,,,
+ConfChamp,Sun,January 14,boxscore,W,,14-4,,Green Bay Packers,38,27,27,419,250,169,,17,328,280,48,2,,,
+SuperBowl,Sun,January 28,boxscore,W,,15-4,N,Pittsburgh Steelers,27,17,15,254,198,56,,25,310,207,103,3,3.32,14.94,-3.08
